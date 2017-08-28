@@ -1,0 +1,21 @@
+{
+  "id": 101,
+  "name": "Mohammed",
+  "nickNames": [
+    {
+      "first": "Raju",
+      "dateFrom": "Jan 1999"
+    },
+    {
+      "second": "Maiq",
+      "dateFrom": "Sept 2015"
+    }
+  ],
+  "address": {
+    "place": "Gurgaon",
+    "state": "Haryana",
+    "pin": 122004,
+    "country": "India"
+  },
+  "company": "Sprinklr"
+}
