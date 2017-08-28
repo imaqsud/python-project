@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This is a python for doing all the python things here.
+This is a python project for doing all the python things here.
 
  PROFILE
 
